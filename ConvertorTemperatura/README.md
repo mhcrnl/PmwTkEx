@@ -14,3 +14,5 @@ Pentru instalarea pe sistemul Fedora 21 utilizati comanda:
 
     sudo yum install python-pmw   
 ***
+
+![imagine](img/img.png)
