@@ -16,8 +16,8 @@ Fila [BluePrint.py](https://github.com/mhcrnl/PmwTkEx/blob/master/BluePrint.py) 
 In continuare prezentam:
 [ConvertorTemperatura ](https://github.com/mhcrnl/PmwTkEx/tree/master/ConvertorTemperatura)
 
-![text](ConvertorTemperatura/img/img.png)
+![text](img/img.png)
 
 - TextEditor
 
-![texteditor.png](TextEditor/img/texteditor.png)
+![texteditor.png](img/texteditor.png)
