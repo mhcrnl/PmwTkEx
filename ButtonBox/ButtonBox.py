@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 title = "ButtonBox demonstratie"
 
 # Import Pmw from this directory tree, if needed

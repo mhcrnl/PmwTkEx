@@ -11,7 +11,9 @@ Pentru instalarea pe sistemul Fedora 21 utilizati comanda:
 ***
 In acest depozit de cod aveti descarcat spre utilizare si instalare atat codul sursa **Pmw.1.3.tar.gz** cat si codul dezarhivat in folder-ul **src**.
 
-In continuare prezentam:
-[PmwEx1](/PmwEx1/)
+Fila [BluePrint.py](https://github.com/mhcrnl/PmwTkEx/blob/master/BluePrint.py) este codul care va fi utilizat ca copy/paste pentru toate aceste aplicatii din acest depozit.
 
-![text](/PmwTkEx/img1.png)
+In continuare prezentam:
+[ConvertorTemperatura ](https://github.com/mhcrnl/PmwTkEx/tree/master/ConvertorTemperatura)
+
+![text](ConvertorTemperatura/img/img.png)
