@@ -18,6 +18,6 @@ In continuare prezentam:
 
 ![text](img/img.png)
 
-- TextEditor
+- TextEditorV1
 
 ![texteditor.png](img/texteditor.png)

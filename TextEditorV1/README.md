@@ -17,5 +17,5 @@ Acest program a fost rulat pe un sistem **Fedora 21** cu **Python 2.7.8** in urm
 
 ####This is a repository for a text editor.
 
-![texteditor.png](PmwTkEx/img/texteditor.png)
+![texteditor.png](img/texteditor.png)
 
