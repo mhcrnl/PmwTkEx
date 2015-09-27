@@ -1,5 +1,5 @@
 # PmwTkEx
-Acest depozit de cod este un exercitiu de utilizare Pmw(Python megawidgets) si Tkinter. Pentru utilizarea acestei colectii aveti nevoie de limbajul de programare **Python** cu interfata grafica **Tkinter**. De asemenea aveti de instalat si **Pmw** pe care il obtineti de la adresa: [http://pmw.sourceforge.net/](http://pmw.sourceforge.net/) unde aveti si  tutoriale. Acesta poate fi instalat pe platformele Linux, Windows si MacOS.
+Acest depozit de cod este un exercitiu de utilizare **Pmw(Python megawidgets)** si **Tkinter**. Pentru utilizarea acestei colectii aveti nevoie de limbajul de programare **Python** cu interfata grafica **Tkinter**. De asemenea aveti de instalat si **Pmw** pe care il obtineti de la adresa: [http://pmw.sourceforge.net/](http://pmw.sourceforge.net/) unde aveti si  tutoriale. Acesta poate fi instalat pe platformele Linux, Windows si MacOS.
 ***
 In Ubuntu 14.04 acesta poate fi instalat prin comanda:
 
@@ -17,3 +17,7 @@ In continuare prezentam:
 [ConvertorTemperatura ](https://github.com/mhcrnl/PmwTkEx/tree/master/ConvertorTemperatura)
 
 ![text](ConvertorTemperatura/img/img.png)
+
+- TextEditor
+
+![texteditor.png](TextEditor/img/texteditor.png)
